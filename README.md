@@ -5,6 +5,6 @@ This is a dynamic web-based Hotel Management System built using JSP, Servlets, a
 ## 💻 Technologies Used
 - Java (JSP & Servlets)
 - MySQL
-- HTML/CSS
+- HTML/CSS/JS
 - JDBC
 - MVC Architecture
